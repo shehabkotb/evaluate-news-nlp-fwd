@@ -23,7 +23,7 @@ The goal of this project is to give practice with:
 * Install all project dependencies with `npm install`
 
 ### Configuration
-Create a `.env` and paste your MeaningCloud API key `API_KEY=**************************`
+* Create a `.env` and paste your MeaningCloud API key `API_KEY=**************************`
 
 ## Usage
 
